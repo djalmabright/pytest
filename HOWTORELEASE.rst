@@ -46,4 +46,3 @@ taking a lot of time to make a new one.
 
    And announce it on `Twitter <https://twitter.com/>`_ with the ``#pytest`` hashtag.
 
-#. After a minor/major release, merge ``release-X.Y.Z`` into ``master`` and push (or open a PR).
